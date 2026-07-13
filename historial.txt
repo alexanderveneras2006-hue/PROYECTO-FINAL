@@ -1,0 +1,6 @@
+Jugador: Derlis
+Tablero: 3x3
+Ganador: O
+Puntos: 115
+Maximo_Posible_Temporada: 10450
+--------------------------------
